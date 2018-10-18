@@ -17,6 +17,6 @@ python PrestigeModelSimple.py -q 0.54 --plot
 
 **PrestigeModel.py**
 
-This also needs graph-tool. https://graph-tool.skewed.de/ It can need a lot of time/memory to compile and install.
+This also needs graph-tool. https://graph-tool.skewed.de/ It can need a lot of time/memory to compile and install. Apparently there is a version available on brew.
 
 Software is copyright to John Bryden under GPL 3. Please don't publish any version of this code, any results generated using this code, or the underlying model, without John's permission.

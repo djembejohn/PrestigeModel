@@ -358,7 +358,7 @@ if doplot:
     adata=array(data)
     figure(1,figsize=(20,10))
 #    subplot (1,2,1)
-    hold(False)
+    cla()
     plot (adata,alpha=0.5)
     xlabel('time')
     ylabel('status')
